@@ -1,0 +1,1 @@
+Run `dotnet ef migrations add InitialCreate` to generate the provider-specific migration files if they are not present in your environment. The source project intentionally keeps migration generation as a standard EF Core workflow rather than hand-maintaining generated migration metadata.
